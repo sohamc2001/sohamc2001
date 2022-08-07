@@ -4,11 +4,11 @@
 <br>
 <br>
 
-- 👀 I’m interested in Java Development, Android Development, Web Development
-- 🌱 I’m currently learning Android Development
-- ☠️ Interested in Hackathons
+- 👀 I’m interested in **Java Development, Android Development, Web Development**
+- 🌱 I’m currently learning **Android Development**
+- ☠️ Interested in **Hackathons**
 - 💞️ I’m looking to collaborate...
-- 📫 Reach me at sohamc385@gmail.com
+- 📫 Reach me at **sohamc385@gmail.com**
 - ⚡ Fun fact **I love teaching**
 
 <br>
