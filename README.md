@@ -34,7 +34,7 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=8764fa)
   
 - 🎨 &nbsp;
-  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=Canva&logoColor=fa1bef)
+  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=Canva&logoColor=0a4cf5)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20Xd-333333?style=flat&logo=Adobe%20XD&logoColor=FF61F6)
   ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=Adobe%20Photoshop&logoColor=31A8FF)
   ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-333333?style=flat&logo=Adobe%20Lightroom&logoColor=31A8FF)
