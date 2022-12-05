@@ -33,11 +33,11 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=5ed3f3)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=8764fa)
   
-- 🖌️🎨 &nbsp;  
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20Xd-333333?style=flat&logo=Adobe%20XD&logoColor=941674)
-  ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=Adobe%20Photoshop&logoColor=182e7a)
-  ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-333333?style=flat&logo=Adobe%20Lightroom&logoColor=182e7a)
-  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=Canva&logoColor=00C4CC)
+- 🎨 &nbsp;
+  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=Canva&logoColor=fa1bef)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20Xd-333333?style=flat&logo=Adobe%20XD&logoColor=FF61F6)
+  ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=Adobe%20Photoshop&logoColor=31A8FF)
+  ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-333333?style=flat&logo=Adobe%20Lightroom&logoColor=31A8FF)
   
 - 🛢 &nbsp;
   ![PHP MyAdmin](https://img.shields.io/badge/-PHP%20MyAdmin-333333?style=flat&logo=phpMyAdmin&logoColor=ff841f)
