@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 👀 I’m interested in **Java Development, Android Development, Web Development**
+- 👀 I’m interested in **Web Development, Java Development, Android Development**
 - 🌱 I’m currently learning **Android Development**
 - ☠️ Interested in **Hackathons**
 - 💞️ I’m looking to collaborate...
