@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soham Chakraborty</h1>
+<h1 align="center">Hola, 👋 I'm Soham Chakraborty</h1>
 <h3 align="center">"A Passionate Developer from India"</h3>
 
 <br>
@@ -8,8 +8,10 @@
 - 🌱 I’m currently learning **Android Development**
 - ☠️ Interested in **Hackathons**
 - 💞️ I’m looking to collaborate...
-- 📫 Reach me at **sohamc385@gmail.com**
+- 🧭 I love exploring and working both in frontend and backend.
+- 📧 Connect me at **sohamc385@gmail.com**
 - ⚡ Fun fact **I love teaching**
+- 📫 How to reach me: Check social links below.
 
 <br>
 
@@ -52,3 +54,12 @@
 
 ### Github Status
 ![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohamc2001&bg_color=0,3E5151,ffca8d&title_color=fff&text_color=fff)
+
+<br>
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/sohamc2001"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/soham-chakraborty2001/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/undefined_polaroids/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
