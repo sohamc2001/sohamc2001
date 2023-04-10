@@ -21,18 +21,18 @@
 
 - ☁️ &nbsp;
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform&logoColor=8938f2)
-  ![AWS Basics](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
-  ![Azure Basics](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=Microsoft%20Azure&logoColor=0078D4)
-  ![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=GNU%20Bash&logoColor=4EAA25)
+  ![AWS Basics](https://img.shields.io/badge/-AWS%20Basics-333333?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
+  ![Azure Basics](https://img.shields.io/badge/-Azure%20Basics-333333?style=flat&logo=Microsoft%20Azure&logoColor=0078D4)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=GNU%20Bash&logoColor=4EAA25)
 
 - 💻 &nbsp;
   ![Core Java](https://img.shields.io/badge/-Core%20Java-333333?style=flat&logo=Oracle)
-  ![Core JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
+  ![Core JavaScript](https://img.shields.io/badge/-Core%20JavaScript-333333?style=flat&logo=JavaScript)
   ![C Programming](https://img.shields.io/badge/-C%20Progamming-333333?style=flat&logo=Codio)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
 
 - 📱 &nbsp;
-  ![Basic Android Development With Kotlin](https://img.shields.io/badge/-Android%20Development%20With%20Kotlin-333333?style=flat&logo=Kotlin)
+  ![Basic Android Development With Kotlin](https://img.shields.io/badge/-Basic%20Android%20Development%20With%20Kotlin-333333?style=flat&logo=Kotlin)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
