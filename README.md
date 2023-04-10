@@ -17,7 +17,7 @@
 <br>
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;My Tech Stack</h3>
 
 - ☁️ &nbsp;
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform&logoColor=8938f2)
@@ -59,7 +59,7 @@
   
 <br>
 
-### Github Status
+### My Github Status
 ![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohamc2001&bg_color=0,3E5151,ffca8d&title_color=fff&text_color=fff)
 
 <br>
