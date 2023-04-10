@@ -25,7 +25,7 @@
   ![Azure Basics](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=Microsoft%20Azure)
   ![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=GNU%20Bash)
 
-- 💻 &nbsp;\
+- 💻 &nbsp;
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
 - ![Core Java](https://img.shields.io/badge/-Core%20Java-333333?style=flat&logo=Oracle)
   ![C Programming](https://img.shields.io/badge/-C%20Progamming-333333?style=flat&logo=Codio)
