@@ -1,5 +1,5 @@
 <h1 align="center">Hola, 👋 I'm Soham Chakraborty</h1>
-<h3 align="center">"A Passionate Developer from India"</h3>
+<h3 align="center">"A Passionate Learner & Developer from India"</h3>
 
 <br>
 <br>
@@ -22,7 +22,7 @@
 - ☁️ &nbsp;
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform&logoColor=8938f2)
   ![AWS Basics](https://img.shields.io/badge/-AWS%20Basics-333333?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
-  ![Azure Basics](https://img.shields.io/badge/-Azure%20Basics-333333?style=flat&logo=Microsoft%20Azure&logoColor=0078D4)
+  ![Azure Basics](https://img.shields.io/badge/-Azure%20Basics-333333?style=flat&logo=Microsoft%20Azure&logoColor=4574E0)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=GNU%20Bash&logoColor=4EAA25)
 
 - 💻 &nbsp;
