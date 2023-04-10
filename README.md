@@ -20,7 +20,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - ☁️ &nbsp;
-  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform&logoColor=7B42BC)
+  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform&logoColor=8938f2)
   ![AWS Basics](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
   ![Azure Basics](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=Microsoft%20Azure&logoColor=0078D4)
   ![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=GNU%20Bash&logoColor=4EAA25)
