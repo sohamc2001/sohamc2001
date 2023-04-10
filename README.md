@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in **Cloud Computing, Terraform, AWS, Azure**
 - 🌱 I’m currently learning **Cloud Computing, AWS, Azure**
-- 🤹🏼‍♂️ I'm also skilled in **Core Java, Terraform, Bash, SQL, HTML, CSS, PHP, Core JavaScript & Web Development
+- 🤹🏼‍♂️ I'm also skilled in **Core Java, Terraform, Bash, SQL, HTML, CSS, PHP, Core JavaScript & Web Development**
 - ☠️ Interested in **Hackathons**
 - 💞️ I’m looking to collaborate...
 - 🧭 I love exploring and working both in frontend and backend.
