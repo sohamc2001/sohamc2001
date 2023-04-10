@@ -22,12 +22,12 @@
 - ☁️ &nbsp;
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform&logoColor=7B42BC)
   ![AWS Basics](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
-  ![Azure Basics](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=Microsoft%20Azure&logoColor=#0078D4)
-  ![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=GNU%20Bash&logoColor=#4EAA25)
+  ![Azure Basics](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=Microsoft%20Azure&logoColor=0078D4)
+  ![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=GNU%20Bash&logoColor=4EAA25)
 
 - 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
   ![Core Java](https://img.shields.io/badge/-Core%20Java-333333?style=flat&logo=Oracle)
+  ![Core JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
   ![C Programming](https://img.shields.io/badge/-C%20Progamming-333333?style=flat&logo=Codio)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
 
@@ -52,7 +52,7 @@
 
 - 🔧 &nbsp;
   ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=Visual%20Studio%20Code&logoColor=289af7)
-  ![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=GNU%20Bash&logoColor=#4EAA25)
+  ![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=GNU%20Bash&logoColor=4EAA25)
   ![PowerShell](https://img.shields.io/badge/-powershell-333333?style=flat&logo=powershell)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
