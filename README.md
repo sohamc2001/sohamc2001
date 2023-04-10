@@ -52,8 +52,8 @@
 
 - 🔧 &nbsp;
   ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=Visual%20Studio%20Code&logoColor=289af7)
-  ![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=GNU%20Bash&logoColor=4EAA25)
-  ![PowerShell](https://img.shields.io/badge/-powershell-333333?style=flat&logo=powershell)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=GNU%20Bash&logoColor=4EAA25)
+  ![PowerShell](https://img.shields.io/badge/-Powershell-333333?style=flat&logo=powershell)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
