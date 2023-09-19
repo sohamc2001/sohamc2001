@@ -59,10 +59,10 @@
   
 <br>
 
-### My Github Status
-![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohamc2001&bg_color=0,3E5151,ffca8d&title_color=fff&text_color=fff)
+//### My Github Status
+//![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohamc2001&bg_color=0,3E5151,ffca8d&title_color=fff&text_color=fff)
 
-<br>
+//<br>
 
 ### Let's Connect :coffee:
 <p align="center">
