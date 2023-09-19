@@ -58,12 +58,12 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
 <br>
+ <! ---
+### My Github Status
+![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohamc2001&bg_color=0,3E5151,ffca8d&title_color=fff&text_color=fff)
 
-//### My Github Status
-//![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohamc2001&bg_color=0,3E5151,ffca8d&title_color=fff&text_color=fff)
-
-//<br>
-
+<br>
+--->
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/sohamc2001"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
